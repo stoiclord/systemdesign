@@ -17,3 +17,6 @@
 - https://github.com/DreamOfTheRedChamber/system-design-interviews
 - https://github.com/mohsenshafiei/system-design-master-plan
 
+### Other references
+- https://github.com/hemanth/functional-programming-jargon
+- 
